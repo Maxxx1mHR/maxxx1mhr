@@ -18,7 +18,6 @@
 </p>
 
 <h3> 🛠️ My tech stack </h3>
-<p align="left"></p>
 <a href="https://www.javascript.com/" target="blank"><img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"/></a>
 <a href="https://www.typescriptlang.org/" target="blank"><img align="center" src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white"/></a>
 <a href="https://react.dev/" target="blank"><img align="center" src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB"/></a>
@@ -39,26 +38,22 @@
 <a href="https://www.atlassian.com/ru/software/jira" target="blank"><img align="center" src="https://img.shields.io/badge/jira-%230A0FFF.svg?logo=jira&logoColor=white"/></a>
 <a href="https://pages.github.com/" target="blank"><img align="center" src="https://img.shields.io/badge/github%20pages-121013?logo=github&logoColor=white"/></a>
 <a href="https://vercel.com/" target="blank"><img align="center" src="https://img.shields.io/badge/vercel-%23000000.svg?logo=vercel&logoColor=white"/></a>
-</p>
 
 <h3>👨‍💻 My projects</h3>
-<div style="display: flex; justify-content: space-between">
-<ul  style="list-style-type:none">
-  <li> <a href="https://github.com/Maxxx1mHR/async-race">🏎️ Async Race</a></li>
-  <li> <a href="https://github.com/Maxxx1mHR/minesweeper">💣 Minesweeper</a></li>
-  <li> <a href="https://github.com/Maxxx1mHR/rss-css-selectors">🎮 Css-selectors game</a></li>
-  <li> <a href="https://github.com/Maxxx1mHR/virtual-keyboard">⌨️ Virtual keyboard</a></li>
-  <li> <a href="https://github.com/Maxxx1mHR/shelter">🐶 Shelter</a></li>
-  <li> <a href="https://github.com/Maxxx1mHR/plants">☘️ Plants</a></li>
-  <li> <a href="  https://github.com/Maxxx1mHR/cssBayan">🪗 CSS accordeon</a></li>
-  <li> <a href="https://github.com/Maxxx1mHR/momentum">🗿 Momentum</a></li>
-  <li> <a href="https://github.com/Maxxx1mHR/rsschool-cv">😈 Curriculum vitae</a></li>
-</ul>
-<img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="600" height="300px" />
-</div>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="600" height="250" />
+
+  🏎️ [Async Race](https://github.com/Maxxx1mHR/async-race)  
+  💣 [Minesweeper](https://github.com/Maxxx1mHR/minesweeper)  
+  🎮 [Css-selectors](https://github.com/Maxxx1mHR/rss-css-selectors)  
+  ⌨️ [Virtual keyboard](https://github.com/Maxxx1mHR/virtual-keyboard)  
+  🐶 [Shelter](https://github.com/Maxxx1mHR/shelter)  
+  ☘️ [Plants](https://github.com/Maxxx1mHR/minesweeper)  
+  🎪 [CSS accordeon](https://github.com/Maxxx1mHR/cssBayan)  
+  🌆 [Momentum](https://github.com/Maxxx1mHR/momentum)  
+  😈 [Curriculum vitae](https://github.com/Maxxx1mHR/rsschool-cv)  
 
 <h3>🎓 Education </h3>
-<ul style="list-style-type:none">
+<ul>
   <li>
     <a href="https://wearecommunity.io/communities/the-rolling-scopes">RS school</a>
     <ul>
