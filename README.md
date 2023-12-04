@@ -4,7 +4,7 @@
 <h3> ♈ About me </h3>
 <p> 🚀 I'm a passionate frontend developer with a great desire to learn new technologies. Keen on learning new technologies in web-development. I really like, when I have to-do list for the day and planning tasks for the next day. Most importantly, I'm very stubborn, because I'm aries 🐏  and always reach 🎯, what I want!
 </p>
-<p><a href="#">❗  My Resume/CV</a></p>
+<p>❗ <a href="#">My Resume/CV</a></p>
 <p>📎 You can check my <a href="https://app.rs.school/cv/dc9a13fa-8742-4637-9207-40a1b82dfabd">RS school CV</a>, with Mentors's Feedback</p>
 <p>🎥 Also you can check out my <a href="https://www.youtube.com/watch?v=kR-WfIrQdHg">Self-introduction on YouTube</a></p>
 <p>🎥 My presentation about JWT token <a href="https://www.youtube.com/watch?v=UwAF4peRPuk">YouTube</a></p>
@@ -63,16 +63,24 @@
       </li>
       <li><a href="https://wearecommunity.io/events/js-stage0-rs-2022q4">JS/FE pre-school JavaScript</a>, 5 December 2022 - 3 March 2023, <a href="https://app.rs.school/certificate/hk4kv8hc">certificate</a></li>
     </ul>
+  </li>
+</ul>
+<ul>
+  <li>
     <a href="https://www.udemy.com/">Udemy</a>
     <ul>
       <li>WEB-developer, 13 July - 5 December 2022, <a href="https://www.udemy.com/certificate/UC-f43bac3c-8e53-4214-8129-0a6f3ee3fd48/">certificate</a></li>
     </ul>
-    <a href="https://en.nntu.ru/">Nizhny Novgorod State Technical University n.a. R.E. Alekseev</a>
-    <ul>
-      <li>Master’s degree in Computer Science and Engineering, 2020 - 2022</li>
-      <li>Bachelor's degree in Computer Science and Engineering, 2016 - 2020</li>
-    </ul>
   </li>
+</ul>
+<ul>
+    <li>
+      <a href="https://en.nntu.ru/">Nizhny Novgorod State Technical University n.a. R.E. Alekseev</a>
+      <ul>
+        <li>Master’s degree in Computer Science and Engineering, 2020 - 2022</li>
+        <li>Bachelor's degree in Computer Science and Engineering, 2016 - 2020</li>
+      </ul>
+    </li>
 </ul>
 
 <h3>👨‍💼 Work experience</h3>
