@@ -55,13 +55,22 @@
 <h3>🎓 Education </h3>
 <ul>
   <li>
+    <a href="https://www.spbstu.ru">Peter the Great St. Petersburg Polytechnic University</a>
+    <ul>
+      <li>ALTADM. Alt OS Administration, 4 September 2023 - 29 September 2023, <a href="https://drive.google.com/file/d/10KK8DHK_2gO4kvihNFXNDqvcrw947YZQ/view">certificate</a></li>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li>
     <a href="https://wearecommunity.io/communities/the-rolling-scopes">RS school</a>
     <ul>
       <li>
         <a href="https://wearecommunity.io/events/js-fe-rs-2023q1">JavaScript/Frontend</a>, 5 March 2023 - 26 September 2023, <a href="https://app.rs.school/certificate/eqyfqyl5">certificate</a>
       </li>
+      <li>
+        <a href="https://wearecommunity.io/events/js-stage0-rs-2022q4">JS/FE pre-school JavaScript</a>, 5 December 2022 - 3 March 2023, <a href="https://app.rs.school/certificate/hk4kv8hc">certificate</a>
       </li>
-      <li><a href="https://wearecommunity.io/events/js-stage0-rs-2022q4">JS/FE pre-school JavaScript</a>, 5 December 2022 - 3 March 2023, <a href="https://app.rs.school/certificate/hk4kv8hc">certificate</a></li>
     </ul>
   </li>
 </ul>
