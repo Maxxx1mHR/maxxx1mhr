@@ -106,7 +106,7 @@
 
 <div style="display:flex; column-gap: 100px">
 <div>
-<h3>🏆 Achivment</h3>
+<h3>🏆 Achievement</h3>
 <details>
 <summary>The best team work of the JavaScript/Frontend 2023Q1! 👑</summary>
   <p><a href="https://github.com/itzaur/eCommerce-Application">Our work</a> won in a fair vote of 180 works. Students and mentors of the school participated in the voting</p>
