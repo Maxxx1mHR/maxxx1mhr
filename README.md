@@ -4,7 +4,7 @@
 <h3> ♈ About me </h3>
 <p> 🚀 I'm a passionate frontend developer with a great desire to learn new technologies. Keen on learning new technologies in web-development. I really like, when I have to-do list for the day and planning tasks for the next day. Most importantly, I'm very stubborn, because I'm aries 🐏  and always reach 🎯, what I want!
 </p>
-<p>❗ <a href="#">My Resume/CV</a></p>
+<p>❗ <a href="https://docs.google.com/document/d/1EAAWliXdWp7wcORlxQMFeInrTYIULC3goOoxJBst00E/edit?usp=sharing">My Resume/CV</a></p>
 <p>📎 You can check my <a href="https://app.rs.school/cv/dc9a13fa-8742-4637-9207-40a1b82dfabd">RS school CV</a>, with Mentors's Feedback</p>
 <p>🎥 Also you can check out my <a href="https://www.youtube.com/watch?v=kR-WfIrQdHg">Self-introduction on YouTube</a></p>
 <p>🎥 My presentation about JWT token <a href="https://www.youtube.com/watch?v=UwAF4peRPuk">YouTube</a></p>
