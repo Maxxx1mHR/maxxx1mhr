@@ -50,7 +50,12 @@
   ☘️ [Plants](https://github.com/Maxxx1mHR/minesweeper)  
   🎪 [CSS accordeon](https://github.com/Maxxx1mHR/cssBayan)  
   🌆 [Momentum](https://github.com/Maxxx1mHR/momentum)  
-  😈 [Curriculum vitae](https://github.com/Maxxx1mHR/rsschool-cv)  
+  😈 [Curriculum vitae](https://github.com/Maxxx1mHR/rsschool-cv) 
+  
+<h3>💻👨‍💻👩‍💻⌨️ Team projects</h3>
+
+  🚀 [eCommerce-Application](https://github.com/itzaur/eCommerce-Application)  
+  🛠️ [GraphiQL](https://github.com/AndreiZaretski/graphiql-app)  
 
 <h3>🎓 Education </h3>
 <ul>
