@@ -47,7 +47,7 @@
   🎮 [Css-selectors](https://github.com/Maxxx1mHR/rss-css-selectors)  
   ⌨️ [Virtual keyboard](https://github.com/Maxxx1mHR/virtual-keyboard)  
   🐶 [Shelter](https://github.com/Maxxx1mHR/shelter)  
-  ☘️ [Plants](https://github.com/Maxxx1mHR/minesweeper)  
+  ☘️ [Plants](https://github.com/Maxxx1mHR/plants)  
   🎪 [CSS accordeon](https://github.com/Maxxx1mHR/cssBayan)  
   🌆 [Momentum](https://github.com/Maxxx1mHR/momentum)  
   😈 [Curriculum vitae](https://github.com/Maxxx1mHR/rsschool-cv) 
